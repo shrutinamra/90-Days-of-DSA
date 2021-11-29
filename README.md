@@ -1,5 +1,5 @@
 # 90-Days-of-DSA
-**Day 1(29/11/21)**
+## Day 1(29/11/21)
 
 
 1.Climbing Stairs
